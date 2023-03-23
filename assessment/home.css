@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+.navigation{
+
+font-size:x-large;
+font-family: Arial, Helvetica, sans-serif;
+}
+.home{
+    text-decoration: none;
+    color: black;
+}
+.heading{
+    margin: 200px 40px 100px 300px;
+    width: 500px;
+    height: 200px;
+}
+.btn{
+    
+    height: 50px;
+    width: 180px;
+    margin-top: 20px;
+    border-radius: 8px;
+
+}
+
